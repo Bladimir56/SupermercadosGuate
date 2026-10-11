@@ -50,3 +50,6 @@
 - Git local está disponible y el repositorio fue inicializado en la rama `main`.
 - GitHub CLI no está instalado; la autenticación web de GitHub está pendiente.
 - `database/CONEXION.md` está excluido mediante `.gitignore` para evitar publicar la contraseña.
+- Repositorio remoto creado y publicado: `https://github.com/Bladimir56/SupermercadosGuate`.
+- Rama publicada: `main`; remoto: `origin`.
+- El primer commit `2cfedf2` fue publicado correctamente.

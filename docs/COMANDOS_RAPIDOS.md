@@ -35,6 +35,8 @@ Pendiente de definir cuando exista un esquema SQL aprobado. No ejecutar scripts 
 - `git diff -- <ruta>` — revisa cambios de una ruta. Ruta: `C:\2026_BaseDatos`.
 - `git init -b main` — inicializa el repositorio local en la rama `main`. Ruta: `C:\2026_BaseDatos`.
 - `git status --short --ignored` — verifica archivos pendientes y confirma que `database/CONEXION.md` está ignorado. Ruta: `C:\2026_BaseDatos`.
+- `git remote add origin https://github.com/Bladimir56/SupermercadosGuate.git` — conecta el repositorio local con GitHub. Ruta: `C:\2026_BaseDatos`.
+- `git push -u origin main` — publica la rama `main` en GitHub y configura el seguimiento remoto. Ruta: `C:\2026_BaseDatos`.
 
 ## Diagnóstico
 
